@@ -1,0 +1,23 @@
+{
+  "name": "LSC",
+  "description": "UI for LSC",
+  "main": "index.php",
+  "authors": [
+    "sumanth-headrun <sumanth@headrun.net>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0",
+    "fusioncharts": "^3.12.0"
+  }
+}

@@ -1,0 +1,19 @@
+{  
+   "views":{  
+      "Suppliers":{  
+         "map":"function (doc, meta) {\n  if (doc.type == \"user_details\" && doc.role == \"Supplier\")\n  emit(doc.supplier_id, [doc.total_points,doc.totallikesno,doc.userid,doc.created_ts,doc.state_desc,doc.category_desc,doc.state_id,doc.totalbadgesno,doc.image,doc.transportation_days,doc.supplier_id,doc.city_id,doc.status,doc.role,doc.mobile_no,doc.supplier_name,doc.supplier_type_id,doc.email,doc.scorecard_category,doc.address,doc.loginname,doc.last_name, doc.first_name]);\n}"
+      },
+      "Buyers":{  
+         "map":"function (doc, meta) {\n  if (doc.type == \"user_details\")\n    if (doc.role == \"purchase-user\" || doc.role == \"Buyer\")\n  emit(doc.userid, [doc.userid,doc.backendid,doc.loginname,doc.first_name,doc.last_name,doc.scorecard_category,doc.supplier_name,doc.mobile_no,doc.city_id,doc.city_desc,doc.state_id,doc.state_desc,doc.address,doc.email,doc.role,doc.status,doc.image,doc.created_ts]);\n}"
+      },
+      "Supplier-points":{  
+         "map":"function (doc, meta) {\n  if (doc.type == \"user_details\" && doc.role == \"Supplier\"){\n/*    for (var counter in doc.points){\n      emit(doc.supplier_id,[doc.points[counter].name, doc.points[counter].value, doc.total_points]);\n    } */\n    \n    emit(doc.supplier_id, doc.total_points);\n  }\n}"
+      },
+      "Buyer-supplier-map":{  
+         "map":"function (doc, meta) {\n  if (doc.type == \"user_details\" && doc.role == \"Buyer\")\n    for (var counter in doc.buyer_supplier_map)\n      emit(doc.userid, [doc.buyer_supplier_map[counter].buyer_id,doc.buyer_supplier_map[counter].supplier_id,doc.buyer_supplier_map[counter].status, doc.buyer_supplier_map[counter].created_timestamp]);\n}"
+      },
+      "Purchase-user-buyer-map":{  
+         "map":"function (doc, meta) {\n  if (doc.type == \"user_details\" && doc.role == \"purchase-user\")\n    for (var counter in doc.purchase_user_buyer_mapping)\n      emit(doc.userid,[doc.purchase_user_buyer_mapping[counter].buyer_id,doc.purchase_user_buyer_mapping[counter].status, doc.purchase_user_buyer_mapping[counter].created_timestamp]);\n}"
+      }
+   }
+}

@@ -1,0 +1,67 @@
+[33mcommit 29b9d754088790866bfd0915650548e7638144df[m
+Author: harsha-headrun <harsha@notemonk.com>
+Date:   Mon Nov 28 16:48:55 2016 +0530
+
+    Added colors to graphs and disabled bubbles for zero users
+
+[33mcommit 119988bc03e3930f0537a508c62e2d83568c7033[m
+Author: harsha-headrun <harsha@notemonk.com>
+Date:   Fri Nov 25 09:26:33 2016 +0530
+
+    supervisor app phase 1 complete...
+
+[33mcommit b9b11d5e4fcdeac40db43421b2d906d387352bfe[m
+Author: Harsha <harsha@notemonk.com>
+Date:   Thu Sep 29 21:05:27 2016 +0530
+
+    Reports, login , uploads changes done.
+
+[33mcommit f6a969cea59708e2fe9513858f826b6bc3f9cde4[m
+Author: Harsha <harsha@notemonk.com>
+Date:   Fri Sep 23 14:58:21 2016 +0530
+
+    updated GA
+
+[33mcommit 6f97bec563cea29c4dd027e85f079fd4779be5c6[m
+Author: Harsha <harsha@notemonk.com>
+Date:   Thu Sep 22 00:52:08 2016 +0530
+
+    making change status to N
+
+[33mcommit b0db89ffd2c600303476fb5fe4cee88d6a9cf7c3[m
+Author: Harsha <harsha@notemonk.com>
+Date:   Fri Sep 16 10:50:12 2016 +0530
+
+    update
+
+[33mcommit f8d45e41915572d63d507c5c16de05a96bbbf011[m
+Author: Harsha <harsha@notemonk.com>
+Date:   Wed Sep 14 14:22:08 2016 +0530
+
+    dynamic for diff client and ui change
+
+[33mcommit 21718bc69c10cd2b2be1ee66949d5428aad25e57[m
+Author: Harsha <harsha@notemonk.com>
+Date:   Sun Sep 11 23:15:21 2016 +0530
+
+    completed upload from excel.
+
+[33mcommit e92e8883ecfd45b4fd84d196f359a300d7f82b6d[m
+Author: Harsha <harsha@notemonk.com>
+Date:   Sat Sep 10 21:18:41 2016 +0530
+
+    graph changed
+
+[33mcommit 7b7949f77422c4fe24731264f77c82da5be67b01[m
+Author: Harsha <harsha@notemonk.com>
+Date:   Sat Sep 10 10:04:20 2016 +0530
+
+    initial commit
+    
+    initial commit
+
+[33mcommit 05273317c320dba63658eb2a61f9e5b3e888ae45[m
+Author: prashanth pamidi <ninja@fundoocode.ninja>
+Date:   Wed Aug 31 10:58:59 2016 +0530
+
+    Initial commit

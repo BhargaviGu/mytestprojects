@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#BDBDBD;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;fill:none;stroke:#FF00FF;stroke-width:30;stroke-miterlimit:10;}
+	.st3{display:inline;fill:none;stroke:#FF00FF;stroke-width:30;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{display:inline;}
+	.st5{fill:none;stroke:#FF00FF;stroke-width:30;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#FF00FF;stroke-width:30;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#FF00FF;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:#FF00FF;}
+	.st9{clip-path:url(#SVGID_2_);}
+	.st10{clip-path:url(#SVGID_4_);fill:#FF00FF;}
+	.st11{clip-path:url(#SVGID_6_);fill:none;stroke:#FF00FF;stroke-width:30;stroke-miterlimit:10;}
+	
+		.st12{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FF00FF;stroke-width:30;stroke-linecap:round;stroke-miterlimit:10;}
+	
+		.st13{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FF00FF;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+	.st14{display:inline;fill:#FF00FF;}
+	.st15{fill:none;stroke:#39434E;stroke-width:30;stroke-miterlimit:10;}
+	.st16{fill:none;}
+	.st17{fill:#1A1A1A;}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;}
+	.st19{fill:#5A5A5A;}
+	.st20{fill:#EDEDED;}
+	.st21{clip-path:url(#SVGID_8_);}
+	.st22{clip-path:url(#SVGID_10_);fill:#FFFFFF;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="home" class="st1">
+</g>
+<g id="updates" class="st1">
+</g>
+<g id="activities" class="st1">
+</g>
+<g id="contest" class="st1">
+</g>
+<g id="Rewards" class="st1">
+</g>
+<g id="Rewards_2" class="st1">
+</g>
+<g id="leaderboard" class="st1">
+</g>
+<g id="logout" class="st1">
+</g>
+<g id="arrow" class="st1">
+</g>
+<g id="clock" class="st1">
+</g>
+<g id="send" class="st1">
+</g>
+<g id="mini-menu" class="st1">
+	<g class="st4">
+		<defs>
+			<path id="SVGID_1_" d="M250-217c-14.3,0-26,11.7-26,26s11.7,26,26,26c14.3,0,26-11.7,26-26S264.3-217,250-217z M250-295
+				c-14.3,0-26,11.7-26,26c0,14.3,11.7,26,26,26c14.3,0,26-11.7,26-26C276-283.3,264.3-295,250-295z M250-321c14.3,0,26-11.7,26-26
+				s-11.7-26-26-26c-14.3,0-26,11.7-26,26S235.7-321,250-321z"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#FF00FF;"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st9">
+			<defs>
+				<rect id="SVGID_3_" x="-3544.6" y="-3480" width="4160" height="8320"/>
+			</defs>
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;fill:#FF00FF;"/>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+		</g>
+	</g>
+</g>
+<g id="menu" class="st1">
+</g>
+<g id="back_arrow" class="st1">
+</g>
+<g id="call" class="st1">
+</g>
+<g id="predict" class="st1">
+</g>
+<g id="perform" class="st1">
+</g>
+<g id="Layer_20" class="st1">
+</g>
+<g id="Layer_22">
+</g>
+<g id="Layer_21" class="st1">
+</g>
+<g id="Layer_17">
+	<g>
+		<polygon class="st19" points="91.5,54.2 91.5,54.2 91.5,54.2 		"/>
+		<path class="st19" d="M440.6,235.5c-1.2-2-2.6-3.8-4.4-5.5c-1.7-1.6-3.8-3.1-5.9-4.2L91.5,54.2c-3.6-1.8-7.6-2.8-11.4-2.7
+			c-3.4,0-6.7,0.7-9.7,2c-4.4,1.9-8.2,4.9-11,8.9c-1.4,2-2.5,4.2-3.3,6.6c-0.8,2.4-1.2,5-1.2,7.6c0,2,0.2,4.1,0.7,6.1l41.5,168.6
+			L55.9,417.4c-0.5,2-0.8,4.1-0.8,6.1c0,3.5,0.8,6.9,2.1,10c2,4.6,5.2,8.3,9.2,10.9c2,1.3,4.2,2.4,6.5,3.1c2.3,0.7,4.8,1.1,7.4,1.1
+			c3.9,0,7.9-0.9,11.6-2.8l0,0l338.6-175.2c2.2-1.1,4.2-2.5,5.9-4.2c2.6-2.5,4.5-5.4,5.8-8.5c1.3-3.1,1.9-6.4,1.9-9.6
+			C444,243.8,442.9,239.4,440.6,235.5z M87.4,85.7l294.9,149.4H124.2L87.4,85.7z M87.6,414.2l37.1-149h250.9L87.6,414.2z"/>
+	</g>
+</g>
+</svg>

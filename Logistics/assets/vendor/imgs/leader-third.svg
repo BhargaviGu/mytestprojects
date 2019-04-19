@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="36px" viewBox="0 0 24 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>leader-third</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Landscape" transform="translate(-564.000000, -245.000000)">
+            <g id="leader-third" transform="translate(564.000000, 245.000000)">
+                <polygon id="Fill-1" fill="#FF7058" points="5.6245686 18.09883 5.6245686 35.97943 11.991114 29.44153 18.3578579 35.97943 18.3578579 18.09883"></polygon>
+                <g id="Group-9" transform="translate(0.000000, 0.079400)">
+                    <path d="M11.9911537,0.02062 C18.6136661,0.02062 23.9823273,5.43392 23.9823273,12.11172 C23.9823273,18.78942 18.6136661,24.20272 11.9911537,24.20272 C5.36864132,24.20272 -1.98347116e-05,18.78942 -1.98347116e-05,12.11172 C-1.98347116e-05,5.43392 5.36864132,0.02062 11.9911537,0.02062" id="Fill-2" fill="#BCAAA4"></path>
+                    <path d="M11.9911537,2.46247 C17.2762116,2.46247 21.5606083,6.78257 21.5606083,12.11167 C21.5606083,17.44077 17.2762116,21.76097 11.9911537,21.76097 C6.70609587,21.76097 2.42169917,17.44077 2.42169917,12.11167 C2.42169917,6.78257 6.70609587,2.46247 11.9911537,2.46247" id="Fill-5" fill="#8D6E63"></path>
+                    <polygon id="Fill-7" fill="#FFFFFF" points="11.9911537 5.57385 13.9831537 9.66985 18.4358479 10.33935 15.233038 13.49015 15.9751537 17.98005 11.9911537 15.85325 8.00715372 17.98005 8.74926942 13.49015 5.5464595 10.33935 9.99915372 9.66985"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
